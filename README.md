@@ -1,5 +1,9 @@
 # Python-Notes
 
-### Google Collab Link for Basics of Python Notes:
+### 1] Python
 
-### Google Collab Link for Numpy and Pandas Notes:
+### 2] Numpy
+
+### 3] Pandas
+
+Includes both basic and advance level topics along with csv dataset files for practice.
